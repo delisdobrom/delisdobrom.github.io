@@ -536,6 +536,41 @@ footer{
     width: 100%;
 }
 
+.footer-main{
+    max-width: 1440px;
+    padding: 20px;
+    border-radius: 3px;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0px auto;
+    align-items: stretch;
+    align-content: stretch;
+    justify-content: center;
+}
+
+.footer-b{
+    flex-flow: row wrap;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 3px;
+    flex: 0 1 380px;
+}
+
+.contact-info .footer-b h3{
+    color: #fff;
+    font-size: 20px;
+}
+
+.contact-info .footer-b p{
+    font-size: 16px;
+}
+
+.contact-info .footer-b a{
+    color: #17e17b;
+    font-size: 16px;
+}
+
 .contact-info{
     padding-top: 30px;
     margin: auto;
@@ -546,8 +581,8 @@ footer{
     font-family: Gerbera-Regular,sans-serif;
     color: #17e17b;
     font-size: 56px;
-    padding-top: 30px;
-    padding-bottom: 35px;
+    padding-top: 0px;
+    padding-bottom: 20px;
 }
 
 .contact-info p {
@@ -555,19 +590,26 @@ footer{
     margin: 0px;
     font-family: Gerbera-Regular,sans-serif;
     font-size: 20px;
-    padding-bottom: 90px;
+    padding-bottom: 25px;
 }
 
 .nav{
     width: 250px;
-    margin: auto;
-    padding-bottom: 90px;
+    margin: 20px auto;
 }
 
 .cont-text{
     color: #17e17b!important;
     font-family: Gerbera-Regular,sans-serif!important;
     font-size: 15px!important;
+}
+
+.cont-text a{
+    color: #17e17b;
+}
+
+.cont-text a:hover{
+    color: #17e17b;
 }
 
 .nav li{
@@ -727,6 +769,17 @@ footer{
     footer {
         background-image: url(img/filter-kids30.png);
         background-attachment: inherit;
+        padding: 0px;
+        margin: 0px auto;
+    }
+    .contact-info h3{
+        padding-bottom: 5px;
+    }
+    .contact-info p{
+        padding-bottom: 20px;
+    }
+    .footer-b{
+        margin: -10px;
     }
 }
 

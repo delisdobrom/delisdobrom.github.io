@@ -280,16 +280,41 @@
                         </a></li>
                 </ul>
             </div>
-            <p class = 'cont-text'>welcome@delisdobrom.com </br>natalia@delisdobrom.com</p>
+            <div class="footer-main">
+                <div class = 'footer-b'>
+                    <div class = 'text'>
+                        <h3>Участникам и волонтерам</h3>
+                        <p>Стать участником или волонтером мероприятия, Вы можете, написав на <a href = 'mailto:welcome@delisdobrom.com'>welcome@delisdobrom.com</a></p>
+                    </div>
+                </div>
+                <div class = 'footer-b'>
+                    <div class = 'text'>
+                        <h3 class = 'text-person2'>Спонсорам и партнерам</h3>
+                        <p>Если Вы желаете стать нашим Партнером или Спонсором - пишите: </br> <a href = 'mailto:ksenia@delisdobrom.com'>ksenia@delisdobrom.com</a></br><a href = 'mailto:olga@delisdobrom.com'>olga@delisdobrom.com</a> </p>
+                    </div>
+                </div>
+                <div class = 'footer-b'>
+                    <div class = 'text'>
+                        <h3 class = 'text-person3'>Информационная поддержка</h3>
+                        <p>По вопросам информационной поддержки, пожалуйста, пишите на </br> <a href = 'mailto:welcome@delisdobrom.com'>welcome@delisdobrom.com</a></p>
+                    </div>
+                </div>
+            </div>
         </div>
    </footer>
 </div>
+<script>
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+//        var footer = $('footer');
+        $('footer').css('display', 'none');
+    }else
+    {
+//Now include js files
+    }
+</script>
 <script type="text/javascript" src='https://code.jquery.com/jquery-2.2.3.js'></script>
 <script src="slick/owl.carousel.js"></script>
 <script src="slick/owl.carousel.min.js"></script>
-<!--<script src="js/classie.js"></script>-->
-<!--<script src="js/main.js"></script>-->
-<!--<script src="presentational-only/presentational-only.js"></script>-->
 <script>
     var owl = $('.slider');
     owl.owlCarousel({
