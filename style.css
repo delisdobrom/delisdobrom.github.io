@@ -977,6 +977,9 @@ footer{
     .block6-first {
         font-size: 14px;
     }
+    .block6-first a {
+        font-size: 15px;
+    }
 }
 
 @media only screen and (max-width: 1122px) {
@@ -1188,6 +1191,9 @@ footer{
     .block7-center {
         max-width: 265px;
     }
+    .footer-main{
+        margin: -18px auto;
+    }
 }
 
 @media only screen and (max-width: 785px) {
@@ -1243,6 +1249,7 @@ footer{
     }
 }
 
+
 @media only screen and (max-width: 980px) {
     .block-img{
         display: none;
@@ -1278,6 +1285,21 @@ footer{
     }
 }
 
+@media only screen and (max-width: 570px){
+    .block2 {
+        max-width: 430px;
+    }
+    .bll{
+        max-width: 498px!important;
+    }
+}
+
+@media only screen and (max-width: 470px){
+    .block2 {
+        max-width: 301px;
+    }
+}
+
 @media only screen and (max-width: 775px) {
     .block6-about__right {
         background: url(img/ic_keyboard_arrow_right_white_24dp_2x.png) no-repeat 85px;
@@ -1292,7 +1314,7 @@ footer{
         background: url(img/ic_keyboard_arrow_right_white_24dp_2x.png) no-repeat 66px;
     }
     .block6-about__left {
-        background: url(img/ic_keyboard_arrow_left_white_24dp_2x.png) no-repeat -2px;
+        background: url(img/ic_keyboard_arrow_left_white_24dp_2x.png) no-repeat -10px;
     }
 }
 
@@ -1400,6 +1422,9 @@ a.button:hover{
         position: relative;
         top: -17px;
     }
+    .block6-first a {
+        font-size: 13px;
+    }
     .unslider-arrow.next{
         width: 105px!important;
     }
@@ -1407,9 +1432,12 @@ a.button:hover{
         width: 105px!important;
     }
     .block6-center {
-        transform: translateX(-56%) translateY(33%);
+        transform: translateX(-58%) translateY(33%);
         width: 70%;
         margin-top: 90px;
+    }
+    .block7-content p{
+        width: 82%;
     }
     .slider2{
         transform: translateX(-58%) translateY(-25%);
@@ -1419,7 +1447,7 @@ a.button:hover{
         margin-top: -70px!important;
     }
     .bl2{
-        margin-top: 40px;
+        margin-top: 27px;
     }
     .bl3{
         margin-top: 90px;
@@ -1428,7 +1456,7 @@ a.button:hover{
         margin-top: 60px;
     }
     .bl5{
-        margin-top: 40px;
+        margin-top: 35px;
     }
     .bl6{
         margin-top: 68px;
