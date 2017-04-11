@@ -843,6 +843,11 @@ footer{
     text-decoration: none;
 }
 
+
+.block6-first a:focus{
+    text-decoration: none;
+}
+
 @media only screen and (max-width: 1200px) {
     .block4-img {
         width: 300px;

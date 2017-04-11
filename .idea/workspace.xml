@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98516c97-11ce-488e-be2c-2da36f5d955f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/7d-logo.png" afterPath="$PROJECT_DIR$/img/7d-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/afishadailly.png" afterPath="$PROJECT_DIR$/img/afishadailly.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fun-pe.png" afterPath="$PROJECT_DIR$/img/fun-pe.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lenta.png" afterPath="$PROJECT_DIR$/img/lenta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/people-talk.png" afterPath="$PROJECT_DIR$/img/people-talk.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profashion.png" afterPath="$PROJECT_DIR$/img/profashion.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="delisdobrom.github.io.iws" />
@@ -33,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -93,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="842" column="25" selection-start-line="842" selection-start-column="25" selection-end-line="842" selection-end-column="25" />
+            <state relative-caret-position="283">
+              <caret line="846" column="21" selection-start-line="846" selection-start-column="21" selection-end-line="846" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -123,8 +116,8 @@
       <list>
         <option value="$PROJECT_DIR$/slick/owl.carousel.js" />
         <option value="$PROJECT_DIR$/unslider.css" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -232,12 +225,12 @@
       <workItem from="1491816498366" duration="2175000" />
       <workItem from="1491823559807" duration="14757000" />
       <workItem from="1491891099926" duration="7497000" />
-      <workItem from="1491901506474" duration="11952000" />
+      <workItem from="1491901506474" duration="12342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125845000" />
+    <option name="totallyTimeSpent" value="126235000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +243,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1535" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -258,7 +251,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.352" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.352" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1631,14 +1624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="842" column="25" selection-start-line="842" selection-start-column="25" selection-end-line="842" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1694,6 +1679,14 @@
             <element signature="n#style#0;n#path#4;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#path#5;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="846" column="21" selection-start-line="846" selection-start-column="21" selection-end-line="846" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
