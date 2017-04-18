@@ -138,10 +138,10 @@ html, body, h1, p, a, div, section {
     margin-left: 30px;
 }
 
-.block4-logo{
-    margin: -30px auto;
-    text-align: center;
-    font-size: 50px;
+.block3 img{
+    max-width: 100%;
+    height: auto;
+    width: auto;
 }
 
 .block3-center__bl1 a{
@@ -156,6 +156,11 @@ html, body, h1, p, a, div, section {
     padding-top: 60px;
     font-size: 2em;
     padding-bottom: 15px;
+}
+
+.block3-img{
+    text-align: center;
+    background: #8bcb97;
 }
 
 .block3-center-p{
@@ -551,9 +556,12 @@ h3{
     padding-bottom: 80px;
 }
 
-.block6-center h3{
+.block6-about h3{
     color: #17e17b;
     padding-bottom: 15px;
+    text-align: center;
+    position: relative;
+    top: 190px;
 }
 
 .block6-center a{
@@ -848,6 +856,12 @@ footer{
     text-decoration: none;
 }
 
+.dev-img{
+    width: 35px!important;
+    margin-left: 5px;
+    margin-right: 10px;;
+}
+
 @media only screen and (max-width: 1200px) {
     .block4-img {
         width: 300px;
@@ -953,6 +967,9 @@ footer{
     .block6-first {
         font-size: 18px;
     }
+    .block6-about h3{
+        top: 154px;
+    }
 }
 
 @media only screen and (max-width: 1333px) {
@@ -1003,6 +1020,9 @@ footer{
         -ms-transform: translateX(-76%) translateY(-2%);
         transform: translateX(-76%) translateY(-2%);
     }
+    .block6-about h3{
+        top: 100px;
+    }
 }
 
 @media only screen and (max-width: 860px) {
@@ -1040,6 +1060,9 @@ footer{
     .block6-first{
         padding-bottom: 15px;
     }
+    .block6-about h3{
+        top: 70px;
+    }
 }
 
 @media only screen and (max-width: 695px) {
@@ -1066,9 +1089,6 @@ footer{
         text-align: center;
         width: 100%;
         padding: 0 0 0 0;
-    }
-    .block3-img{
-        display: none;
     }
 }
 
@@ -1202,6 +1222,12 @@ footer{
     }
 }
 
+@media only screen and (max-width: 420px) {
+    .block6-about h3{
+        top: 130px;
+    }
+}
+
 
 @media only screen and (max-width: 767px) {
     .block1 {
@@ -1211,9 +1237,8 @@ footer{
 }
 
 @media only screen and (max-width: 767px) {
-    .block1 {
-        background-image: url(img/kids-30.png);
-        background-attachment: inherit;
+    .block3{
+        background-position: left;
     }
 }
 
@@ -1309,6 +1334,57 @@ footer{
     }
 }
 
+@media only screen and (max-width: 650px) {
+    .block3{
+        background: url(img/z_baraholka_fb_6-01.jpg) no-repeat;
+        width: 100%;
+        background-position: center;
+        height: 87%;
+        background-size: cover;
+    }
+    .block3-img img{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .block3{
+        height: 78%;
+    }
+}
+
+@media only screen and (max-width: 495px) {
+    .block3{
+        height: 70%;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .block3{
+        height: 65%;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .block3{
+        height: 60%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .block3{
+        height: 57%;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .block3{
+        height: 53%;
+    }
+}
+
+
+
 @media only screen and (max-width: 419px) {
     .block6-about__right {
         background: url(img/ic_keyboard_arrow_right_white_24dp_2x.png) no-repeat 66px;
@@ -1386,6 +1462,12 @@ h3{
     -webkit-flex: 1 1 150px;
     -ms-flex: 1 1 150px;
     flex: 1 1 150px;
+}
+
+.develops{
+    font-size: 12px!important;
+    margin-left: -15px!important;
+
 }
 
 a.button{
@@ -1466,3 +1548,75 @@ a.button:hover{
         top: -20px;
     }
 }
+
+/*@media only screen and (max-width: 1314px) {*/
+    /*.block3{*/
+        /*height: 93%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 1235px) {*/
+    /*.block3{*/
+        /*height: 87%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 1175px) {*/
+    /*.block3{*/
+        /*height: 82%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 1115px) {*/
+    /*.block3{*/
+        /*height: 78%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 1075px) {*/
+    /*.block3{*/
+        /*height: 75%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 1025px) {*/
+    /*.block3{*/
+        /*height: 72%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 985px) {*/
+    /*.block3{*/
+        /*height: 68%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 940px) {*/
+    /*.block3{*/
+        /*height: 65%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 895px) {*/
+    /*.block3{*/
+        /*height: 62%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 860px) {*/
+    /*.block3{*/
+        /*height: 59%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 817px) {*/
+    /*.block3{*/
+        /*height: 56%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 770px) {*/
+    /*.block3{*/
+        /*height: 54%;*/
+    /*}*/
+/*}*/
