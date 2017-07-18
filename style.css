@@ -87,6 +87,16 @@ html, body, h1, p, a, div, section {
 
 /*block3*/
 
+.block-3{
+    TEXT-ALIGN: center;
+    margin: auto;
+    width: -2px;
+    height: 1px;
+    font-size: 53px;
+    position: relative;
+    top: -51px;
+}
+
 .block-table{
     background-color: #703b8f;
 }
@@ -238,6 +248,10 @@ html, body, h1, p, a, div, section {
     margin-top: 15px;
     font-family: Gerbera-Regular,sans-serif;
     text-align: justify;
+}
+
+.bl{
+    margin: -4px!important;
 }
 
 .block3-p4{
@@ -860,6 +874,14 @@ footer{
     width: 35px!important;
     margin-left: 5px;
     margin-right: 10px;;
+}
+
+.block3 .text{
+    margin-top: 3px;
+}
+
+.block4-2 .text{
+    margin-top: -53px;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -1549,74 +1571,30 @@ a.button:hover{
     }
 }
 
-/*@media only screen and (max-width: 1314px) {*/
-    /*.block3{*/
-        /*height: 93%;*/
-    /*}*/
-/*}*/
+@media only screen and (min-width: 1191px){
+    #main{
+        max-width: 1168px!important;
+    }
+}
 
-/*@media only screen and (max-width: 1235px) {*/
-    /*.block3{*/
-        /*height: 87%;*/
-    /*}*/
-/*}*/
+@media only screen and (max-width: 1190px){
+   .bl{
+       flex: 0 1 426px;
+   }
+    .block4-2 .text {
+        margin-top: -45px;
+    }
+}
 
-/*@media only screen and (max-width: 1175px) {*/
-    /*.block3{*/
-        /*height: 82%;*/
-    /*}*/
-/*}*/
 
-/*@media only screen and (max-width: 1115px) {*/
-    /*.block3{*/
-        /*height: 78%;*/
-    /*}*/
-/*}*/
+@media only screen and (max-width: 956px){
+    .block4-2 .text{
+        margin-top: 0px;
+    }
+}
 
-/*@media only screen and (max-width: 1075px) {*/
-    /*.block3{*/
-        /*height: 75%;*/
-    /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 1025px) {*/
-    /*.block3{*/
-        /*height: 72%;*/
-    /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 985px) {*/
-    /*.block3{*/
-        /*height: 68%;*/
-    /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 940px) {*/
-    /*.block3{*/
-        /*height: 65%;*/
-    /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 895px) {*/
-    /*.block3{*/
-        /*height: 62%;*/
-    /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 860px) {*/
-    /*.block3{*/
-        /*height: 59%;*/
-    /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 817px) {*/
-    /*.block3{*/
-        /*height: 56%;*/
-    /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 770px) {*/
-    /*.block3{*/
-        /*height: 54%;*/
-    /*}*/
-/*}*/
+@media only screen and (max-width: 495px){
+    #main{
+        padding: 10px;
+    }
+}
