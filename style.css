@@ -563,6 +563,7 @@ h3{
     background-size: contain;
     position: absolute;
     margin-top: -9px;
+    cursor: pointer;
 }
 
 .block3_right{
@@ -574,6 +575,7 @@ h3{
     float: right;
     margin-top: -88px;
     right: -23px;
+    cursor: pointer;
 }
 
 .block-3_center{
