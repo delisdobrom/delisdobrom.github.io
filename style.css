@@ -85,6 +85,16 @@ html, body, h1, p, a, div, section {
     font-size: 16px;
 }
 
+.block2-img{
+    background: url(img/afisha.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #464646;
+    width: auto;
+    height: 100%;
+}
+
 /*block3*/
 
 .block-3{
@@ -362,8 +372,7 @@ h3{
 /*block5*/
 
 .block5{
-    background: #794c9c;
-    margin-top: 40px;
+    background: #7936bf;;
 }
 
 .block5-content{
@@ -440,7 +449,7 @@ h3{
     box-sizing: content-box;
     color: #ffffff;
     border: 3px solid #ffffff;
-    background-color: #794c9c;
+    background-color: #7936bf;
     width: 160px;
     border-radius: 3px;
     font-family: Gerbera-Regular,sans-serif;
@@ -1492,7 +1501,7 @@ footer{
     -webkit-flex-flow: row wrap;
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
-    margin: 0px auto;
+    margin: 4px auto;
     -webkit-align-items: stretch;
     -ms-flex-align: stretch;
     align-items: stretch;
@@ -1732,7 +1741,7 @@ a.button:hover{
         left: 24px;
     }
     .block3_right {
-        right: -45px;
+        right: -40px;
     }
 }
 
@@ -1742,7 +1751,7 @@ a.button:hover{
         width: 71%;
     }
     .block3_right {
-        right: -48px;
+        right: -40px;
     }
 }
 
@@ -1873,5 +1882,81 @@ a.button:hover{
     .block3_right {
         left: 27px;
         width: 69px;
+    }
+}
+
+@media only screen and (max-width: 1285px){
+    .block2-img{
+        height: 96%;
+    }
+}
+
+@media only screen and (max-width: 1220px){
+    .block2-img{
+        height: 88%;
+    }
+}
+
+@media only screen and (max-width: 1125px){
+    .block2-img{
+        height: 82%;
+    }
+}
+
+@media only screen and (max-width: 1050px){
+    .block2-img{
+        height: 82%;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 640px){
+    .block2-img{
+        height: 46%;
+    }
+}
+
+@media only screen and (max-width: 620px){
+    .block2-img{
+        height: 44%;
+    }
+}
+
+
+@media only screen and (max-width: 590px){
+    .block2-img{
+        height: 40%;
+    }
+}
+
+@media only screen and (max-width: 570px){
+    .block2-img{
+        height: 40%;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    .block2-img{
+        height: 36%;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .block2-img{
+        height: 38%;
+    }
+}
+
+@media only screen and (max-width: 420px){
+    .block2-img{
+        height: 32%;
+    }
+}
+
+@media only screen and (max-width: 365px){
+    .block2-img{
+        height: 27%;
     }
 }
