@@ -536,6 +536,7 @@ h3{
 }
 
 .image img {
+    margin: auto;
     width: 120px;
     height: 120px;
     border-radius: 50%;
@@ -605,6 +606,16 @@ h3{
     padding-bottom: 25px;
     position: relative;
     top: 8px;
+}
+
+.block-timer{
+    background-image: url("img/timer-block.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: #464646;
+    width: auto;
+    height: 100%;
 }
 
 .block6-about{
@@ -714,6 +725,10 @@ h3{
 
 .qw img {
     margin-left: -25px;
+}
+
+.qw img{
+    display: -webkit-inline-box;
 }
 
 .block6-center p:last-child{
@@ -939,7 +954,8 @@ footer{
 .dev-img{
     width: 35px!important;
     margin-left: 5px;
-    margin-right: 10px;;
+    margin-right: 10px;
+    display: inherit;
 }
 
 .block3 .text{
@@ -1959,4 +1975,163 @@ a.button:hover{
     .block2-img{
         height: 27%;
     }
+}
+
+
+
+@media only screen and (max-width: 650px){
+    .flip-clock-wrapper ul{
+        width: 45px;
+    }
+    .flip-clock-wrapper{
+        width: 31.4rem;
+    }
+}
+
+@media only screen and (max-width: 510px){
+    .flip-clock-wrapper ul{
+        width: 36px;
+    }
+    .flip-clock-wrapper{
+        width: 28.9rem;;
+    }
+}
+
+
+.parent {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.block {
+}
+img {
+    display: block;
+    border: none;
+}
+
+@media only screen and (max-width: 790px){
+    .block-timer{
+        /*height: 60%;*/
+        background-position: inherit;
+    }
+}
+
+
+
+@media only screen and (max-width: 540px){
+    .block-timer{
+        height: 80%;
+    }
+}
+
+@media only screen and (max-width: 520px){
+    .block-timer{
+        height: 72%;
+    }
+}
+
+@media only screen and (max-width: 505px){
+    .block-timer{
+        height: 54%;
+    }
+}
+
+@media only screen and (max-width: 490px){
+    .block-timer{
+        height: 57%;
+    }
+    .flip-clock-wrapper ul{
+        width: 30px!important;
+    }
+}
+
+
+
+@media only screen and (max-width: 438px){
+    .block-timer{
+        height: 40%;
+    }
+
+}
+
+@media only screen and (max-width: 427px){
+    .block-timer{
+        height: 40%;
+    }
+}
+
+@media only screen and (max-width: 415px){
+    .block-timer{
+        height: 40%;
+    }
+}
+
+@media only screen and (max-width: 402px){
+    .block-timer{
+        height: 40%;
+    }
+}
+
+@media only screen and (max-width: 390px){
+    .block-timer{
+        height: 40%;
+    }
+}
+
+@media only screen and (max-width: 378px){
+    .block-timer{
+        height: 40%;
+    }
+}
+
+/*@media only screen and (max-width: 363px){*/
+    /*.block-timer{*/
+        /*height: 27%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 351px){*/
+    /*.block-timer{*/
+        /*height: 57%;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 340px){*/
+    /*.block-timer{*/
+        /*height: 57%;*/
+    /*}*/
+/*}*/
+
+
+/*@media only screen and (max-width: 330px){*/
+    /*.block-timer{*/
+        /*height: 57%;*/
+    /*}*/
+/*}*/
+
+.flip-clock-wrapper ul li a div div.inn{
+    color: #fff;
+    background-color: #7936bf!important;
+}
+
+.flip-clock-dot{
+    background-color: #7936bf!important;
+}
+
+.flip-clock-wrapper ul li a div div.inn{
+    font-family: Text-Medium;
+    font-size: 35px!important;
+}
+
+@font-face {
+    font-family: Text-Medium;
+    src: url(Fonts/druk_1-2.otf);
 }
