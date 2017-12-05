@@ -932,6 +932,10 @@ footer{
     color: #17e17b;
 }
 
+.block-timer{
+    cursor: pointer;
+}
+
 .nav li{
     float: left;
     margin-left: 32px;
