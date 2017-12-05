@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98516c97-11ce-488e-be2c-2da36f5d955f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="delisdobrom.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11646">
-              <caret line="647" column="26" selection-start-line="647" selection-start-column="26" selection-end-line="647" selection-end-column="26" />
+            <state relative-caret-position="755">
+              <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
               <folding>
                 <element signature="e#11272#11278#0" expanded="true" />
                 <element signature="e#11998#12004#0" expanded="true" />
@@ -99,17 +97,17 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
+            <state relative-caret-position="37044">
               <caret line="2058" column="17" selection-start-line="2058" selection-start-column="17" selection-end-line="2058" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flipclock.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flipclock.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flipclock.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="315">
               <caret line="537" column="29" selection-start-line="537" selection-start-column="29" selection-end-line="537" selection-end-column="29" />
               <folding />
             </state>
@@ -170,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,6 +178,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -355,12 +353,13 @@
       <workItem from="1512132284698" duration="7000" />
       <workItem from="1512132499212" duration="3467000" />
       <workItem from="1512136595766" duration="9790000" />
-      <workItem from="1512146399338" duration="8355000" />
+      <workItem from="1512146399338" duration="8734000" />
+      <workItem from="1512455079666" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238822000" />
+    <option name="totallyTimeSpent" value="239261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,7 +379,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2106,10 +2105,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37044">
+          <caret line="2058" column="17" selection-start-line="2058" selection-start-column="17" selection-end-line="2058" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flipclock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="537" column="29" selection-start-line="537" selection-start-column="29" selection-end-line="537" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11646">
-          <caret line="647" column="26" selection-start-line="647" selection-start-column="26" selection-end-line="647" selection-end-column="26" />
+        <state relative-caret-position="755">
+          <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
           <folding>
             <element signature="e#11272#11278#0" expanded="true" />
             <element signature="e#11998#12004#0" expanded="true" />
@@ -2170,22 +2185,6 @@
             <element signature="n#style#0;n#path#4;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#path#5;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="2058" column="17" selection-start-line="2058" selection-start-column="17" selection-end-line="2058" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flipclock.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="537" column="29" selection-start-line="537" selection-start-column="29" selection-end-line="537" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
