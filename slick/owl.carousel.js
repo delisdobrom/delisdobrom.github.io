@@ -1447,6 +1447,8 @@
 		}, this);
 
 		$.each({
+            'nxt': this.next,
+            'prv': this.prev,
 			'next': this.next,
 			'prev': this.prev,
 			'to': this.to,
